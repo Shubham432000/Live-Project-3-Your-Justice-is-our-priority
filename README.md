@@ -1,0 +1,17 @@
+# Project-3-Live-Your Justice is Our Top Priority
+
+## Hey there, I am Shubham
+
+#### I have build a template of HTML and CSS Project using my core CSS skill
+
+> My Live Deployed Website Link [Website]()  
+
+![download (3)](https://user-images.githubusercontent.com/101961231/181933461-c546c72e-5524-4135-9a65-312a9abb4217.png)
+
+ ## What I have learned in this project
+
+1. In this project I have Learned how to use HTML and CSS for building a beautiful Website  
+2. I Learned how to position an image   
+3. I Learned how to use Flexbox  
+4. I have also Learned background property  
+5. I Learn navbar Property
