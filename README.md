@@ -14,4 +14,8 @@
 2. I Learned how to position an image   
 3. I Learned how to use Flexbox  
 4. I have also Learned background property  
-5. I Learn navbar Property
+5. I Learn position absolute and relative  
+6. I Learn Text-Decoration Propety like letter-spacing,text-color,text-size  
+7. I Learn image property like absolute,relative, border-radius  
+8. I also Learn Box-Shadow Property  
+9. I also Learn Flex Propert like Flex-direction row and coloumn & justify-content  
