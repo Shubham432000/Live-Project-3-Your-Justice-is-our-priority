@@ -27,6 +27,10 @@ body{
 .section2{
     margin-top: 40px;
 }
+.section2>img{
+    height:280px;
+    width:1365px;
+}
 .left1{
     width: 50%;
     text-align: center;
